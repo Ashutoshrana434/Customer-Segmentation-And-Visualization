@@ -33,7 +33,7 @@ The goal is to help businesses:
 
 # 📊 Dashboard Preview
 
-![Dashboard](Customer_Segmentation_Churn_Dashboard.png)
+![Dashboard](images/Customer_Segmentation_Churn_Dashboard.png)
 
 ---
 
@@ -41,7 +41,7 @@ The goal is to help businesses:
 
 ## 1️⃣ Churn Distribution
 
-![Churn Distribution](01_Churn_vs_Non-Churn_Distribution.png)
+![Churn Distribution](images/01_Churn_vs_Non-Churn_Distribution.png)
 
 - 26.54% customers churned
 - Dataset is moderately imbalanced
@@ -50,7 +50,7 @@ The goal is to help businesses:
 
 ## 2️⃣ Tenure Distribution
 
-![Tenure Distribution](02_Tenure_Distribution.png)
+![Tenure Distribution](images/02_Tenure_Distribution.png)
 
 - Large number of new customers (0–12 months)
 - Long-tenure customers show higher retention
@@ -59,7 +59,7 @@ The goal is to help businesses:
 
 ## 3️⃣ Monthly Charges vs Churn
 
-![Monthly Charges vs Churn](03_Monthly_Charges_vs_Churn.png)
+![Monthly Charges vs Churn](images/03_Monthly_Charges_vs_Churn.png)
 
 - Customers with higher monthly charges churn more
 - Pricing strategy impacts retention
@@ -76,7 +76,7 @@ The goal is to help businesses:
 
 ## 5️⃣ Average Monthly Charges by Tenure Group
 
-![Avg Charges](05_Average_Monthly_Charges_by_Tenure_Group.png)
+![Avg Charges](images/05_Average_Monthly_Charges_by_Tenure_Group.png)
 
 - Long-term customers pay higher average charges
 - Indicates premium service adoption
@@ -85,7 +85,7 @@ The goal is to help businesses:
 
 ## 6️⃣ Churn Rate by Tenure Group
 
-![Churn Rate by Tenure](06_Churn_Rate_by_Tenure_Group.png)
+![Churn Rate by Tenure](images/06_Churn_Rate_by_Tenure_Group.png)
 
 - Highest churn seen in 0–12 month group
 - Onboarding experience is critical
@@ -94,7 +94,7 @@ The goal is to help businesses:
 
 ## 7️⃣ Churn by Gender
 
-![Churn by Gender](07_Churn_by_Gender.png)
+![Churn by Gender](images/07_Churn_by_Gender.png)
 
 - No major gender-based churn difference
 - Gender not a strong churn driver
@@ -103,7 +103,7 @@ The goal is to help businesses:
 
 ## 8️⃣ Churn by Senior Citizen
 
-![Churn by Senior Citizen](08_Churn_by_Senior_Citizen.png)
+![Churn by Senior Citizen](images/08_Churn_by_Senior_Citizen.png)
 
 - Senior citizens show slightly higher churn proportion
 - Possible need for specialized retention offers
@@ -112,7 +112,7 @@ The goal is to help businesses:
 
 ## 9️⃣ Churn by Contract Type
 
-![Churn by Contract](09_Churn_by_Contract_Type.png)
+![Churn by Contract](images/09_Churn_by_Contract_Type.png)
 
 🔥 **Major Insight:**
 - Month-to-month contracts have the highest churn
@@ -124,7 +124,7 @@ The goal is to help businesses:
 
 ## 🔟 Churn by Payment Method
 
-![Churn by Payment](10_Churn_by_Payment_Method.png)
+![Churn by Payment](images/10_Churn_by_Payment_Method.png)
 
 🔥 **Major Insight:**
 - Electronic check users churn the most
