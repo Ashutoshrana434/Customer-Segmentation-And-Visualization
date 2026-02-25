@@ -16,7 +16,7 @@ The goal is to help businesses:
 # 🚀 Live Dashboard
 
 🔗 **Published Dashboard Link:**  
-👉 https://your-dashboard-link-here.com  
+👉 [https://your-dashboard-link-here.com](https://app.powerbi.com/view?r=eyJrIjoiNjI0OTc5ZjctMDE2My00OWMxLWE5NGEtNWNiZGE0ZDQwZWE5IiwidCI6ImFkODQwZTUyLTUzZDEtNDNiZS1hZmY1LWRlMDgzNDE0NjZkMSJ9)  
 
 *(Replace with your Power BI / Streamlit / Tableau published link)*
 
