@@ -68,7 +68,7 @@ The goal is to help businesses:
 
 ## 4️⃣ Customer Distribution by Tenure Group
 
-![Tenure Group Distribution](04_Customer_Distribution_by_Tenure_Group.png)
+![Tenure Group Distribution](images/04_Customer_Distribution_by_Tenure_Group.png)
 
 - 37+ month customers = Largest segment (42.7%)
 
